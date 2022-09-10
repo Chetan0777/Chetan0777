@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chetan Portfolio</title>
     <link rel="stylesheet" href="portfolio.css">
+    <script src="https://kit.fontawesome.com/6f3f4b23f1.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <div id="header">
@@ -16,6 +17,7 @@
                     <li><a href="#">Home</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Skills</a></li>
+                    <li><a href="#">My work</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
@@ -36,12 +38,48 @@
                     <h1 class="sub-title">About Me</h1>
                     <p>Java Backend Developer with the ability to learn and collaborate in Rapidly changing environments and compositions. Worked intensively through 1200+ hours of Bootcamp Structure learning of Java, SpringBoot, Hibernate, AWS, JavaScript, HTML5 & CSS3.</p>
                 <div class="tab-title">
-                    <p class="tab-links">Skills</p>
-                    <p class="tab-links">Education</p>
+                    <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                    <p class="tab-links active-link" onclick="opentab('education')">Education</p>
                 </div>
+                <div class="tab-contents active-tab" id="skills">
+                    <ul>
+                        <li><span>Java Backend Development</span><br>Focusing on databases,application programming interface (APIs)</li>
+                        <li><span>Frontend Development</span><br>Design of web pages</li>
+                    </ul>
+                </div>
+                <div class="tab-contents" id="education">
+                    <ul>
+                        <li><span>Apr 2022 - Dec 2022</span><br>Full Stack Web Development from Masai School, Bengaluru</li>
+                        <li><span>Jun 2020 - Dec 2021</span><br>Higher Secondary Education from Sarvodaya Bal Vidyalaya, Delhi</li>
+                    </ul>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- -------------------skills section------------------- -->
+    <div id="skills">
+        <div class="container">
+            <h1 class="sub-title">My Skills</h1>
+            <div class="skills-list">
+                <div>
+                    <i class="fa-brands fa-java"></i>
+                    <h2>Java Backend Development</h2>
+                    <p>Java is capable of handling more robust programming tasks than its front end counterpart. Java is an incredibly useful skill for back end developers;it's a high-performance language that supports object-oriented programming and can run in any system that supports a Java Virtual machine.</p>
+                </div>
+                <div>
+                    <i class="fa-brands fa-aws"></i>
+                    <h2>Java on AWS</h2>
+                    <p>Simpliﬁes use of AWS services by providing a set of libraries that are consistent and familiar for Java developers. Use popular Integrated Development Environments (IDEs) to author, debug, and deploy your code on AWS. Use the AWS Cloud Development Kit (CDK) for your Infrastructure as Code with Java.</p>
+                </div>
+                <div>
+                    <i class="fa-solid fa-code"></i>
+                    <h2>Frontend Development</h2>
+                    <p>Front-End Developer is responsible for developing new user-facing features, determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages using HTML5 / CSS & JavaScript.</p>
                 </div>
             </div>
         </div>
     </div>
 </body>
 </html>
+<script src="portfolio.js"></script>
