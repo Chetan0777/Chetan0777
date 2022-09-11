@@ -340,13 +340,12 @@ nav .fas{
     #header{
         background-image: url(images/gcloud_extend-your-dataflow-template-with-udfs-00.gif);
         background-size:100% 60%;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-attachment:scroll;
         background-position:55% 25%;
     }
     .header-text{
-        margin-top: 100%;
-        font-size: 17px;
+        margin-top: 140%;
+        font-size: 20px;
     }
     .header-text h1{
         font-size: 30px;
