@@ -8,18 +8,19 @@
     <link rel="stylesheet" href="portfolio.css">
     <script src="https://kit.fontawesome.com/6f3f4b23f1.js" crossorigin="anonymous"></script>
 </head>
-<body>
     <div id="header">
         <div class="container">
             <nav>
                 <img src="images/chetan logo.png" class="logo" alt="">
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Skills</a></li>
-                    <li><a href="#">Work</a></li>
-                    <li><a href="#">Contact</a></li>
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#mywork">Work</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
                 </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
             </nav>
             <div class="header-text">
                 <p>Java Backend Developer</p>
@@ -109,11 +110,41 @@
                         <p>Hotstar has a big streaming of Bollywood films like Jolly LLB 2, Pink, Hollywood movies like Deadpool and Guardian of the Galaxy.</p>
                         <span><a href="https://github.com/Chetan0777/Hotstar"><i class="fa-brands fa-github"></i></a><a href="https://preeminent-marzipan-04585e.netlify.app"><i class="fa-solid fa-link"></i></a></span>
                     </div>
-                </div>
+                </div>      
             </div>
         </div>
     </div>
 
+     <!-- -------------------contact section------------------- -->
+
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Me</h1>
+                    <p><i class="fa-sharp fa-solid fa-paper-plane"></i>coderchetan1@gmail.com</p>
+                    <p><i class="fa-sharp fa-solid fa-square-phone"></i>+91-9821491274</p>
+                    <div class="social-icons">
+                        <a href=""><i class="fa-brands fa-linkedin"></i></a>
+                        <a href=""><i class="fa-brands fa-square-github"></i></a>
+                        <a href=""><i class="fa-brands fa-square-twitter"></i></a>
+                    </div>
+                    <a href="images/Chetan_Resume.pdf" download class="btn btn2">Download Resume</a>
+                </div>
+                <div class="contact-right">
+                    <form>
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="email" placeholder="Your Email" required>
+                        <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                        <button type="submit" class="btn btn2" id="s">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>Copyright © Chetan. Made With <i class="fa-sharp fa-solid fa-heart"></i> by Masai School</p>
+        </div>
+    </div>
 </body>
 </html>
 <script src="portfolio.js"></script>
