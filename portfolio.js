@@ -27,3 +27,10 @@ function closemenu(){
     side.style.right = "-200px";
 
 }
+
+let typed = new Typed(".auto-input",{
+    strings : ["Frontend developer","Java developer"],
+    typeSpeed : 100,
+    backSpeed :100,
+    loop : true
+})
