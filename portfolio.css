@@ -9,11 +9,12 @@ body{
     background-color: #080808;
     color: #fff;
 }
+
 #header{
     width: 100%;
     height: 100vh;
     background-image: url(images/gcloud_extend-your-dataflow-template-with-udfs-00.gif);
-    background-size:65% 100%;
+    background-size:54% 98%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position:right;
@@ -23,7 +24,7 @@ body{
     background-position: center; */
 }
 .container{
-    padding: 10px 10%;
+    padding: 10px 8%;
 }
 nav{
     display: flex;
@@ -331,6 +332,119 @@ form .btn2{
     color: pink;
 }
 
+/* -------------tech stack------------------- */
+
+.stack{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    /* min-height: 10vh; */
+    /* background: white; */
+}
+.stack ul:last-child{
+    margin-left: 40%;
+}
+.tech{
+    position: relative;
+    transform: skewY(-15deg);
+}
+.tech li{
+    position: relative;
+    list-style: none;
+    width: 130px;
+    background: #3e3f46;
+    padding: 20px;
+    transition: 0.5s;
+    z-index: calc(1*var(--i));
+}
+.tech li:hover{
+    transform: translateX(-50px);
+    background: var(--clr);
+}
+.tech li::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -40px;
+    width: 40px;
+    height: 100%;
+    background: #3e3f46;
+    filter: brightness(0.7);
+    transform-origin: right;
+    transform: skewY(45deg);
+    transition: 0.5s;
+}
+.tech li:hover::before{
+    background: var(--clr);
+    filter: brightness(0.7);
+}
+
+.tech li::after{
+    content: '';
+    position: absolute;
+    top: -40px;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background: #3e3f46;
+    filter: brightness(0.9);
+    transform-origin: bottom;
+    transform: skewX(45deg);
+    transition: 0.5s;
+}
+.tech li:hover::after{
+    background: var(--clr);
+    filter: brightness(0.9);
+}
+.tech li a{
+    text-decoration: none;
+    color: #999;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    transition: 0.5s;
+}
+#techstack .til h2 span{
+    color: #f49812;
+}
+.tech li:hover a{
+    color: #fff;
+}
+.tech li:last-child::after{
+    box-shadow: -120px 120px 20px rgba(0,0,0,0.25);
+}
+.tech li span{
+    position: absolute;
+    top: 0;
+    left: -40px;
+    width: 40px;
+    height: 100%;
+    transform-origin: right;
+    transform: skewY(45deg);
+    transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+    font-size: 1.25rem;
+}
+.tech li:hover span{
+    opacity: 1;
+}
+#techstack .til{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    gap: 30%;
+    margin-bottom: 7%;
+    margin-top: 3%;
+}
+
+
 /* ------------------css for small screen---------------- */
 
 nav .fas{
@@ -398,5 +512,43 @@ nav .fas{
     }
     .copyright{
         font-size: 14px;
+    }
+
+    #techstack .til h2{
+        font-size: 25px;
+    }
+
+    #techstack .tech li{ 
+        width: 110px;
+        font-size: smaller;
+        padding: 15px;
+    }
+    #techstack .til h2{
+        margin-bottom: 5%;
+    }
+    .stack ul:first-child{
+        margin-left: 10%;
+    }
+    .stack ul:last-child{
+        margin-left: 30%;
+    }
+}
+@media only screen and (max-width: 400px){
+    #techstack .til h2{
+        font-size: 15px;
+    }
+    #techstack .tech li{ 
+        width: 90px;
+        font-size: 10px;
+        /* padding: 5px; */
+    }
+    #techstack .til h2{
+        margin-bottom: 15%;
+    }
+    .stack ul:first-child{
+        margin-left: 10%;
+    }
+    .stack ul:last-child{
+        margin-left: 30%;
     }
 }

@@ -29,7 +29,7 @@ function closemenu(){
 }
 
 let typed = new Typed(".auto-input",{
-    strings : ["Frontend developer","Java developer"],
+    strings : ["Frontend Developer","Java Developer"],
     typeSpeed : 100,
     backSpeed :100,
     loop : true
