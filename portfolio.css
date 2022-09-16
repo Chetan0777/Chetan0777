@@ -13,7 +13,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/gcloud_extend-your-dataflow-template-with-udfs-00.gif);
+    background-image: url(images/jayaprogrammer02.gif);
     background-size:54% 98%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -156,8 +156,9 @@ html{
 .skills-list{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
-    grid-gap: 40px;
+    grid-gap: 30px;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 .skills-list div{
     background : #262626;
@@ -207,7 +208,7 @@ html{
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0,0,0,0.6),#f49812);
+    background: linear-gradient(rgba(0,0,0,0.6), #3e3f45);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -228,16 +229,20 @@ html{
 }
 .layer a{
     margin-top: 20px;
-    color: #f49812;
+    color: #3e3f45;
     text-decoration: none;
-    font-size: 35px;
-    line-height: 60px;
+    font-size: 32px;
+    line-height: 65px;
     background: white;
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
+    /* width: 60px;
+    height: 60px; */
+    border-radius: 100%;
     margin-left: 10px;
     text-align: center;
+}
+.layer p+p{
+    margin: 6px;
+    font-weight: 300;
 }
 .work:hover img{
     transform: scale(1.1);
@@ -454,7 +459,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/gcloud_extend-your-dataflow-template-with-udfs-00.gif);
+        background-image: url(images/jayaprogrammer02.gif);
         background-size:100% 60%;
         background-attachment:scroll;
         background-position:55% 25%;
@@ -531,6 +536,12 @@ nav .fas{
     }
     .stack ul:last-child{
         margin-left: 30%;
+    }
+    .layer p+p{
+        font-size: 10px;
+    }
+    .layer p{
+        font-size: 13px;
     }
 }
 @media only screen and (max-width: 400px){
