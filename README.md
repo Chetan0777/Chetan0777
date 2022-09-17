@@ -1,4 +1,8 @@
 
+---
+[![](https://visitcount.itsvg.in/api?id=Chetan0777&icon=7&color=5)](https://visitcount.itsvg.in)
+
+
 ### Hi there 👋 I'm [Chetan!](https://github.com/Chetan0777/Chetan0777/)
 
 
@@ -53,8 +57,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Chetan0777&icon=7&color=5)](https://visitcount.itsvg.in)
+
 
 
 
