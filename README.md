@@ -1,8 +1,13 @@
 
 ### Hi there 👋 I'm [Chetan!](https://github.com/Chetan0777/Chetan0777/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+High+school+student;Web+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px"/>
+  
 ## I'm a Java Backend Developer
 
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS
@@ -19,6 +24,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=Chetan0777&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan0777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+
+  ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+  
+![Chetan!](https://activity-graph.herokuapp.com/graph?username=Chetan0777&area=true&hide_border=true&theme=dracula)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
