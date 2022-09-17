@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px"/>
   
-## I'm a Java Backend Developer
+## I'm a Full Stack Web Developer
 
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS
 - 📚 Learning everything about Backend and Frontend technologies 😅
