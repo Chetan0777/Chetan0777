@@ -3,16 +3,15 @@
 [![](https://visitcount.itsvg.in/api?id=Chetan0777&icon=7&color=5)](https://visitcount.itsvg.in)
 
 
-### Hi there 👋 I'm [Chetan!](https://github.com/Chetan0777/Chetan0777/)
+### Hi there 👋 I'm  [Chetan!](https://github.com/Chetan0777/Chetan0777/)
 
 
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+High+school+student;Web+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px"/>
   
-## I'm a Full Stack Web Developer
+## I'm a Java Backend Developer | Frontend Developer
 
 - 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS
 - 📚 Learning everything about Backend and Frontend technologies 😅
@@ -20,6 +19,7 @@
 
 ---
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px"/>
 
 
 # 💻 Tech Stack:
