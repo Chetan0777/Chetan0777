@@ -76,7 +76,7 @@ nav ul li a:hover::after{
     width: 100%;
 }
 .header-text{
-    margin-top: 17%;
+    margin-top: 13%;
     font-size: 30px;
 }
 .header-text h3{
@@ -85,7 +85,6 @@ nav ul li a:hover::after{
 .header-text h1{
     font-size: 120px;
     letter-spacing: 8px;
-    /* margin-top: 100px; */
 }
 .header-text h2{
     word-spacing: 2px;
@@ -502,6 +501,173 @@ nav .fas{
     display: none;
 }
 
+@media only screen and (max-width: 1300px){
+    .header-text{
+        margin-top: 16%;
+        font-size: 30px;
+    }
+    .header-text h1{
+        font-size: 74px;
+        /* padding-top: 15%; */
+    }
+    .header-text h2{
+        font-size: 35px;
+        word-spacing: 2px;
+    }
+    .header-text h2 span{
+        font-size: 40px;
+    }
+
+    nav .fas{
+        display: block;
+        font-size: 25px;
+    }
+    nav ul{
+        background: #f49812;
+        position: fixed;
+        top: 0;
+        right: -200px;
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+        z-index: 2;
+        transition: right 0.5s;
+    }
+    .btn{
+        display: block;
+        margin: 20px auto;
+        width: fit-content;
+        border: 1px solid #f49812;
+        padding: 15px 20px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: white;
+        transition: 0.5s;
+    }
+    nav ul li{
+        display: block;
+        margin: 25px;
+    }
+    nav ul .fas{
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+    } 
+
+}
+
+
+@media only screen and (max-width: 930px){
+    .header-text{
+        margin-top: 17%;
+        font-size: 30px;
+    }
+    .header-text h1{
+        font-size: 74px;
+        /* padding-top: 15%; */
+    }
+    .header-text h2{
+        font-size: 35px;
+        word-spacing: 2px;
+    }
+    .header-text h2 span{
+        font-size: 40px;
+    }
+
+    nav .fas{
+        display: block;
+        font-size: 25px;
+    }
+    nav ul{
+        background: #f49812;
+        position: fixed;
+        top: 0;
+        right: -200px;
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+        z-index: 2;
+        transition: right 0.5s;
+    }
+    .btn{
+        display: block;
+        margin: 20px auto;
+        width: fit-content;
+        border: 1px solid #f49812;
+        padding: 15px 20px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: white;
+        transition: 0.5s;
+    }
+    nav ul li{
+        display: block;
+        margin: 25px;
+    }
+    nav ul .fas{
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+    } 
+
+}
+
+@media only screen and (max-width: 800px){
+    .header-text{
+        margin-top: 28%;
+        font-size: 20px;
+    }
+    .header-text h1{
+        font-size: 64px;
+        /* padding-top: 15%; */
+    }
+    .header-text h2{
+        font-size: 35px;
+    }
+    .header-text h2 span{
+        font-size: 40px;
+        word-spacing: 4px;
+    }
+    .btn{
+        display: block;
+        margin: 20px auto;
+        width: fit-content;
+        border: 1px solid #f49812;
+        padding: 15px 20px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: white;
+        transition: 0.5s;
+    }
+    nav .fas{
+        display: block;
+        font-size: 25px;
+    }
+    nav ul{
+        background: #f49812;
+        position: fixed;
+        top: 0;
+        right: -200px;
+        width: 200px;
+        height: 100vh;
+        padding-top: 50px;
+        z-index: 2;
+        transition: right 0.5s;
+    }
+    nav ul li{
+        display: block;
+        margin: 25px;
+    }
+    nav ul .fas{
+        position: absolute;
+        top: 25px;
+        left: 25px;
+        cursor: pointer;
+    }
+
+}
 
 @media only screen and (max-width: 600px){
     #header{
@@ -596,97 +762,21 @@ nav .fas{
     .layer p{
         font-size: 13px;
     }
+
+
+    .btn{
+        display: block;
+        margin: 20px auto;
+        width: fit-content;
+        border: 1px solid #f49812;
+        padding: 10px 20px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: white;
+        transition: 0.5s;
+    }
 }
 
-@media only screen and (max-width: 930px){
-    .header-text{
-        margin-top: 27%;
-        font-size: 30px;
-    }
-    .header-text h1{
-        font-size: 74px;
-        /* padding-top: 15%; */
-    }
-    .header-text h2{
-        font-size: 45px;
-        word-spacing: 2px;
-    }
-    .header-text h2 span{
-        font-size: 50px;
-    }
-
-    nav .fas{
-        display: block;
-        font-size: 25px;
-    }
-    nav ul{
-        background: #f49812;
-        position: fixed;
-        top: 0;
-        right: -200px;
-        width: 200px;
-        height: 100vh;
-        padding-top: 50px;
-        z-index: 2;
-        transition: right 0.5s;
-    }
-    nav ul li{
-        display: block;
-        margin: 25px;
-    }
-    nav ul .fas{
-        position: absolute;
-        top: 25px;
-        left: 25px;
-        cursor: pointer;
-    } 
-
-}
-
-@media only screen and (max-width: 800px){
-    .header-text{
-        margin-top: 28%;
-        font-size: 20px;
-    }
-    .header-text h1{
-        font-size: 64px;
-        /* padding-top: 15%; */
-    }
-    .header-text h2{
-        font-size: 35px;
-    }
-    .header-text h2 span{
-        font-size: 40px;
-        word-spacing: 4px;
-    }
-
-    nav .fas{
-        display: block;
-        font-size: 25px;
-    }
-    nav ul{
-        background: #f49812;
-        position: fixed;
-        top: 0;
-        right: -200px;
-        width: 200px;
-        height: 100vh;
-        padding-top: 50px;
-        z-index: 2;
-        transition: right 0.5s;
-    }
-    nav ul li{
-        display: block;
-        margin: 25px;
-    }
-    nav ul .fas{
-        position: absolute;
-        top: 25px;
-        left: 25px;
-        cursor: pointer;
-    }
-
-}
 @media only screen and (max-width: 400px){
     
     .header-text{
@@ -704,7 +794,17 @@ nav .fas{
     .header-text h2 span{
         font-size: 29px;
     }
-
+    .btn{
+        display: block;
+        margin: 20px auto;
+        width: fit-content;
+        border: 1px solid #f49812;
+        padding: 10px 10px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: white;
+        transition: 0.5s;
+    }
     
     #techstack .til h2{
         font-size: 15px;
