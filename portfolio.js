@@ -8,6 +8,9 @@ function opentab(tabname){
     for(let i of tabcontents){
         i.classList.remove("active-tab");
     }
+    // for(let i = 0; i < tabcontents.length; i++){
+    //     tabcontents[i].classList.remove("active-tab");
+    // }
     event.currentTarget.classList.add("active-link");
     document.getElementById(tabname).classList.add("active-tab");
 }
@@ -34,3 +37,5 @@ let typed = new Typed(".auto-input",{
     backSpeed :100,
     loop : true
 })
+
+

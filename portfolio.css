@@ -305,6 +305,29 @@ html{
     color: #f49812;
     transform: translateY(-5px);
 }
+
+/* ----------stats----------------- */
+#stat{
+    margin-top: -5%;
+    margin-bottom: 10%;
+}
+#stat h1{
+    margin-bottom: 3%;
+}
+.stats{
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 100%; */
+    gap: 20px;
+    margin-bottom: 2%;
+}
+.stats img{
+    width: 32%;
+}
+
+
 .btn{
     display: block;
     margin: 50px auto;
