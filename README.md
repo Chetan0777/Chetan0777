@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning at **Masai School**
 - 💬 Ask me about **Java**
-- 👨‍💻 This is [My Portfolio](https://Chetan0777.github.io/)
+- 👨‍💻 This is [My Portfolio](https://chetan0777.github.io/Chetan0777/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
 - 📫 How to reach me: ...**coderchetan1@gmail.com**
 
