@@ -74,6 +74,9 @@
 </div>
 <br>
 <h2 align="center">📊 My Github Stats<h2>
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onedark" alt="Chetan0777" />
+    </p>
+
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=radical" alt="Samruddhi" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&show_icons=true&theme=radical" height="255px" width="47%"/>
@@ -87,26 +90,11 @@
 
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
-
-
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
 
+<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
