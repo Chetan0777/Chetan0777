@@ -12,6 +12,25 @@
 -  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
 - 📫 How to reach me: ...**coderchetan1@gmail.com**
 
+<h2><i>Let's Connect</i></h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/chetan-kumar-528420236/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chetan-kumar-528420236/" />
+    </a>
+    <a href="https://chetan0777.github.io/Chetan0777/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://chetan0777.github.io/Chetan0777/" />
+    </a>
+    <a title="coderchetan1@gmail.com" href="mailto:coderchetan1@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="coderchetan1@gmail.com" />
+    </a>
+</p>
+
+<br>
+
+
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Chetan!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -48,23 +67,6 @@
  
  
 <!---------------- Social Media Links Section------------------------->
-
-<h2><i>Let's Connect</i></h2>
-
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/chetan-kumar-528420236/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chetan-kumar-528420236/" />
-    </a>
-    <a href="https://chetan0777.github.io/Chetan0777/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://chetan0777.github.io/Chetan0777/" />
-    </a>
-    <a title="coderchetan1@gmail.com" href="mailto:coderchetan1@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="coderchetan1@gmail.com" />
-    </a>
-</p>
-
-<br>
 
 
 <div align="center">
