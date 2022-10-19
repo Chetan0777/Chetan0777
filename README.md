@@ -1,29 +1,70 @@
 ![Profile views](https://gpvc.arturio.dev/Chetan0777)  
 
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning at **Masai School**
-- 💬 Ask me about **Java**
-- 👨‍💻 This is [My Portfolio](https://Chetan0777.github.io/)
+
+
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://chetan0777.github.io/Chetan0777/)
+
+
+
+- 🔭 I’m currently working on Backend and Frontend technologies 😅
+- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
+- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 This is [My Portfolio](https://chetan0777.github.io/Chetan0777/)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/chetan-kumar-528420236/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
 - 📫 How to reach me: ...**coderchetan1@gmail.com**
 
+<h2 align="center"><i>Let's Connect</i></h2>
 
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/chetan-kumar-528420236/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chetan-kumar-528420236/" />
+    </a>
+
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Chetan!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
-  
-## I'm a Java Backend Developer | Frontend Developer
-
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS
-- 📚 Learning everything about Backend and Frontend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px"/>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<br>
+<! -----------------Tech Stack Section--------------------- >
+
+### <h2><i>👨🏻‍💻 Tech Stack & Languages</i></h2>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+
+
+
+### <h2><i>🚀 Libraries & Frameworks</i></h2>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
+
+
+### <h2><i>💻 Databases</i></h2>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+ 
+ 
+ 
+<!---------------- Social Media Links Section------------------------->
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -31,7 +72,10 @@
        alt="snake" /></a>
 </div>
 <br>
-<h2 align="center">📊 My Github Stats<h2>
+<h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
+   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onedark" alt="Chetan0777" />
+    </p>
+
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=radical" alt="Samruddhi" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&show_icons=true&theme=radical" height="255px" width="47%"/>
@@ -45,26 +89,11 @@
 
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
-
-
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
 
 
+<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
