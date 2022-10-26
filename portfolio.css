@@ -40,6 +40,13 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    height: 9%;
+    width: 100%;
+    padding: 0px 9%;
+    background-color: #080808;
+    overflow: hidden;
 }
 .logo a{
     font-size: 35px;
