@@ -42,7 +42,7 @@ nav{
     flex-wrap: wrap;
     position: fixed;
     top: 0;
-    height: 9%;
+    height: 10%;
     width: 100%;
     padding: 0px 9%;
     background-color: #080808;
@@ -220,21 +220,24 @@ html{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
     grid-gap: 40px;
+    /* border: 1px solid green; */
     margin-top: 50px;
 }
 .work{
     border-radius: 10px;
-    position: relative;
-    overflow: hidden;
+    border: 3px solid #f49812;
+    /* position: relative;
+    overflow: hidden; */
 }
 .work img{
     width: 100%;
     height: 250px;
-    border-radius: 10px;
-    display: block;
-    transition: transform 0.5s;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* display: block; */
+    /* transition: transform 0.5s; */
 }
-.layer{
+/* .layer{
     width: 100%;
     height: 0;
     background: linear-gradient(rgba(0,0,0,0.6), #3e3f45);
@@ -251,34 +254,71 @@ html{
     text-align: center;
     font-size: 14px;
     transition: 0.5s;
+} */
+.layer .btnl{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin: auto;
+    margin: 10%;
+    text-align: center;
+    width: 120px;
+    border: 1px solid #f49812;
+    padding: 14px 10px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+.layer .glink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layer .btnl:hover{
+    background: #f49812;
 }
 .layer h3{
-    font-weight: 500;
-    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
 }
-.layer a{
+.layer h3+p{
+    /* font-weight: bold; */
+    /* font-size: 20px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 10px; */
+    text-align: center;
+    padding: 0px 3px;
+}
+/* .layer a{
     margin-top: 20px;
     color: #3e3f45;
     text-decoration: none;
     font-size: 32px;
     line-height: 65px;
     background: white;
-    /* width: 60px;
-    height: 60px; */
     border-radius: 100%;
     margin-left: 10px;
     text-align: center;
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+} */
 .layer p+p{
-    margin: 6px;
-    font-weight: 300;
+    margin-top: 10%;
+    text-align: center;
+    font-weight: bold;
 }
-.work:hover img{
+/* .work:hover img{
     transform: scale(1.1);
-}
-.work:hover .layer{
+} */
+/* .work:hover .layer{
     height: 100%;
-}
+} */
 
 /* ----------------contact section------------------ */
 
