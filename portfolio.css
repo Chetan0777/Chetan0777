@@ -35,7 +35,20 @@ body{
 .container{
     padding: 10px 9%;
 }
-
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    height: 10%;
+    width: 100%;
+    padding: 0px 9%;
+    border-bottom: 2px solid white;
+    background-color: #080808;
+    overflow: hidden;
+}
 .logo a{
     font-size: 35px;
     font-weight: 600;
