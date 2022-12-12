@@ -75,17 +75,14 @@
 <h2 align="center"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onedark" alt="Chetan0777" />
     </p>
-
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan0777&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Chetan0777&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
-<div>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&theme=onedark" height="192px"/></a>
+    <br>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan0777&theme=onedark" alt="7oSkaaa" height="192px"/>
+    <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=onedark" alt="mystreak"/>
+  </p>
 
 
 
