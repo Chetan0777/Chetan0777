@@ -76,11 +76,15 @@
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chetan0777&theme=onedark" alt="Chetan0777" />
     </p>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&theme=onedark" height="192px"/></a>
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&theme=onedark" height="192px"/></a> -->
     <br>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan0777&theme=onedark" alt="7oSkaaa" height="192px"/>
+<!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chetan0777&theme=onedark" alt="7oSkaaa" height="192px"/> -->
     <br>
+	<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chetan0777&show_icons=true&locale=en&theme=onedark" alt="Chetan0777"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan0777&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=onedark" alt="Chetan0777" height="139" />
+</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetan0777&theme=onedark" alt="mystreak"/>
   </p>
 
