@@ -11,7 +11,7 @@
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://chetan0777.github.io/Chetan0777/)
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/chetan-kumar-528420236/)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/chetan-k-528420236/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
 - 📫 How to reach me: ...**coderchetan1@gmail.com**
 
@@ -19,8 +19,8 @@
 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/chetan-kumar-528420236/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chetan-kumar-528420236/" />
+    <a href="https://www.linkedin.com/in/chetan-k-528420236/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/chetan-k-528420236/" />
     </a>
 
 
