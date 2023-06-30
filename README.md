@@ -1,4 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/Chetan0777)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chetan0777&label=Profile%20views&color=0e75b6&style=flat" alt="Chetan0777" /> </p>
+
 
 
 
