@@ -7,14 +7,13 @@
 
 
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 🔭 I’m currently working on Backend and Frontend technologies
+- 💬 Ask me about Java, Spring, Hibernate, SQL and AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+-  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
 - 👨‍💻 This is [My Portfolio](https://chetan0777.github.io/Chetan0777/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/chetan-k-528420236/)
--  📄 This is [My Resume](https://drive.google.com/file/d/13fc2WMsP2p_9dpM3AqLslADvZ1HifnRa/view?usp=sharing)
-- 📫 How to reach me: ...**coderchetan1@gmail.com**
+- 📫 Reach out to me **coderchetan1@gmail.com**
 
 <h2 align="center"><i>Let's Connect</i></h2>
 
